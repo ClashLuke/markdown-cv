@@ -1,13 +1,15 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Lucas Nestler's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
+# Lucas Nestler
+
+AI Researcher, AWS Engineer, Backend Developer
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="lnestler@protonmail.de">lnestler@protonmail.de</a> |
+ <a href="https://github.com/ClashLuke">GitHub</a> |
+ <a href="https://www.linkedin.com/in/lucas-nestler/">LinkedIn</a>
 </div>
 
 
@@ -17,75 +19,66 @@ Standing on the shoulders of giants
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Artificial Intelligence, Backend Development, Blockchain
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Computer Vision, Distributed Systems, Natural Language Processing,
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2012 - 2019`
+__Heinrich-Hertz Gymnasium, Berlin__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- High school diploma (2018)
+- GPA: 3.3 
 
-- Sizar
+## Experience
 
-`1667 - death`
-__Trinity College, Cambridge__
+### Professional
 
-- Fellow
+`Dec 2018 - Feb 2019`
+__Remote Cryptocurency Developer__
 
+- <i>QProtocol, Berlin</i>
+- Research, protype and implemente a cryptocurrency resistent against post-quantum attacks.
+- Automate and simplify the creation and optimization of configurations by creating tools used internally and by third parties.
+- Document and publish research findings in an accessible manner.
 
+`Aug 2019 - Present`
+__AWS Backend Developer__
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- <i>GreenPack MES, Berlin</i>
+- Design, develop and deploy an elastic AWS-based backend using CloudFormation, DynamoDB and Lambda.
+- Research, test an develop custom machine learning solutions for user and device behavior prediction.
+- Automate, scrape and wrap legacy systems into a new ecosystem.
 
 
-## Occupation
+### Private
 
-`1600`
-__Royal Mint__, London
+`Feb 2020 - Present`
+__VALO__
 
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+- Distributed trustless ecosystem
+- Dependency-less python-cryptocurrency
+- Redis-optimized storage
 
 
+`Sep 2019 - Present`
+__iDAF__
 
-<!-- ### Footer
+- Tensorflow based character generator
+- Dense attention fabric  
+- Timeseries modeling
 
-Last updated: May 2013 -->
+## Skills
 
+### Certifications
+
+- Anomaly Detection on AWS
+- Automatic Model Tuning with Amazon SageMaker
+- AWS Certified Cloud Practioner
+- English (C2)
+- Neural Machine Translation with SockEye
+- Understading Neural Networks
 

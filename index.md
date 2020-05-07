@@ -56,12 +56,11 @@ __AWS Backend Developer__
 
 ### Private
 
-`Feb 2020 - Present`
-__VALO__
-
-- Distributed trustless ecosystem
-- Dependency-less python-cryptocurrency
-- Redis-optimized storage
+`Oct 2018 - Aug 2019`
+__Aptum__
+- Distributed payment processor
+- C-based cryptocurrency
+- Highly scalable trustless system
 
 
 `Sep 2019 - Present`
@@ -70,6 +69,15 @@ __iDAF__
 - Tensorflow based character generator
 - Dense attention fabric  
 - Timeseries modeling
+
+
+`Feb 2020 - Present`
+__VALO__
+
+- Distributed trustless ecosystem
+- Dependency-less python-cryptocurrency
+- Redis-optimized storage
+
 
 ## Skills
 

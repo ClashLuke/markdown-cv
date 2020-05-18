@@ -5,7 +5,6 @@ title: Lucas Nestler's CV
 
 # Lucas Nestler
 
-AI Researcher, AWS Engineer, Backend Developer
 <div id="webaddress">
 <a href="lnestler@protonmail.de">lnestler@protonmail.de</a> |
  <a href="https://github.com/ClashLuke">GitHub</a> |
@@ -15,7 +14,7 @@ AI Researcher, AWS Engineer, Backend Developer
 
 ## Currently
 
-Standing on the shoulders of giants
+Certified AWS Engineer offering ~1 year professional and ~3 years volunteering experience. Provide tailored solutions with 6x speed and cost reduction compared to previous production-ready models.
 
 ### Specialized in
 

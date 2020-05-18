@@ -14,7 +14,7 @@ title: Lucas Nestler's CV
 
 ## Currently
 
-Certified AWS Engineer offering ~1 year professional and ~3 years volunteering experience. Provide tailored solutions with 6x speed and cost reduction compared to previous production-ready models.
+Certified AWS Engineer offering ~1 year professional and ~3 years volunteering experience. Provide tailored solutions with 6x speed and cost improvement compared to previous production-ready models.
 
 ### Key Skills
 

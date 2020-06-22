@@ -6,7 +6,7 @@ title: Lucas Nestler's CV
 # Lucas Nestler
 
 <div id="webaddress">
-<a href="lnestler@protonmail.de">lnestler@protonmail.de</a> |
+<a href="lnestler@protonmail.de">lnestler@protonmail.com</a> |
  <a href="https://github.com/ClashLuke">GitHub</a> |
  <a href="https://www.linkedin.com/in/lucas-nestler/">LinkedIn</a>
 </div>
@@ -19,7 +19,7 @@ Certified AWS Engineer offering ~1 year professional and ~3 years volunteering e
 ### Key Skills
 
 - **Blockchain**: Contributed to top ten cryptocurrencies and applied knowledge on cryptographic tasks.
-- **Artificial Intelligence**: Create minimal solutions to complex problems, cutting required working hours to 10%.
+- **Artificial Intelligence**: Created a mathematical model for a complex problem, saving 0.2 FTE for six months.
 - **Learning Ability**: Took over backend development within six months while receiving written praise for learning speed.
 
 

@@ -29,18 +29,18 @@ Certified AWS Engineer offering ~1 year professional and ~3 years volunteering e
 
 ### Skills
 
-* **Artificial Intellgence**, Created a stochastic model for a complex problem, saving 0.2 FTE for six months: **5**
-* **Blockchain**, Contributed to top ten cryptocurrencies and applied knowledge on cryptographic tasks and developed a new one: **5**
-* **Cryptography**, Developed and rolled out (used) crypto: **5**
-* **Linux**, I am a native penguin: **5**
-* **Python**, Extended python and its libraries: **5**
-* **AWS Lambda**, Developed web-backend in it: **5**
-* **AWS EC2**, Set up multiple VPN servers on different OSe: **5**
-* **AWS DynamoDB**, Developed highly efficient solutions using it: **4**
-* **Redis**, Created cryptocurrency with it: **4**
-* **C(++)**, Wrote and micro-optimized custom libraries: **4**
-* **Docker**, Successfully set up multiple containerized linux servers: **4**
-* **Kubernetes**, Finished course: **3**
+* **Artificial Intellgence**, Created a stochastic model for a complex problem, saving 0.2 FTE for six months: **5**, 2 years of experience
+* **Blockchain**, Contributed to top ten cryptocurrencies and applied knowledge on cryptographic tasks and developed a new one: **5**, 2 years of experience
+* **Cryptography**, Developed and rolled out (used) crypto: **5**, 1 year of experience
+* **Linux**, I am a native penguin: **5**, 5 years of experience
+* **Python**, Extended python and its libraries: **5**, 3 years of experience
+* **AWS Lambda**, Developed web-backend in it: **5**, 1 year of experience
+* **AWS EC2**, Set up multiple VPN servers on different OSe: **5**, 1 year of experience
+* **AWS DynamoDB**, Developed highly efficient solutions using it: **4**, 1 year of experience
+* **Redis**, Created cryptocurrency with it: **4**, 1 year of experience
+* **C(++)**, Wrote and micro-optimized custom libraries: **4**, 2 years of experience
+* **Docker**, Successfully set up multiple containerized linux servers: **4**, 1 year of experience
+* **Kubernetes**, Finished course: **3**, 1 year of experience
 
 
 ## Experience

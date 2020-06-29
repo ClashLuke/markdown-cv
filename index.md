@@ -18,12 +18,16 @@ Certified AWS Engineer offering ~1 year professional and ~3 years volunteering e
 
 ### Key Skills
 
-**0**: No Familiarity
-**1**: Conversational Expertise (Terminology Only)
-**2**: Operational Expertise (Has operated this component)
-**3**:  Technical Expertise (Skills to operate product, fix errors)
-**4**:  System Programming Expertise (Has installed, debugged)
-**5**:  Engineering Expertise (Has created, re-engineered, reconfigured)
+### Keys
+
+* **0**: No Familiarity
+* **1**: Conversational Expertise (Terminology Only)
+* **2**: Operational Expertise (Has operated this component)
+* **3**: Technical Expertise (Skills to operate product, fix errors)
+* **4**: System Programming Expertise (Has installed, debugged)
+* **5**: Engineering Expertise (Has created, re-engineered, reconfigured)
+
+### Skills
 
 * **Artificial Intelligence**, Created a stochastic model for a complex problem, saving 0.2 FTE for six months: **5**
 * **Blockchain**, Contributed to top ten cryptocurrencies and applied knowledge on cryptographic tasks and developed a new one: **5**

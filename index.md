@@ -14,13 +14,31 @@ title: Lucas Nestler's CV
 
 ## Currently
 
-Certified AWS Engineer offering ~1 year professional and ~3 years volunteering experience. Provide tailored solutions with 6x speed and cost improvement compared to previous production-ready models.
+Certified AWS Engineer offering ~1 year professional and ~3 years volunteering experience. Provided tailored solutions with 6x speed and cost improvement compared to previous production-ready models. Underage.
 
 ### Key Skills
 
-- **Blockchain**: Contributed to top ten cryptocurrencies and applied knowledge on cryptographic tasks.
-- **Artificial Intelligence**: Created a mathematical model for a complex problem, saving 0.2 FTE for six months.
-- **Learning Ability**: Took over backend development within six months while receiving written praise for learning speed.
+| Key | Description                                                      |
+| --- | ---------------------------------------------------------------- |
+| 0   | No Familiarity                                                   |
+| 1   | Conversational Expertise (Terminology Only)                      |
+| 2   | Operational Expertise (Has operated this component)              |
+| 3   | Technical Expertise (Skills to operate product, fix errors)      |
+| 4   | System Programming Expertise (Has installed, debugged)           |
+| 5   | Engineering Expertise (Has created, re-engineered, reconfigured) |
+
+| Name                    | 1   | 2   | 3   | 4   | 5   | Note                                                                                                         |
+| ----------------------- | --- | --- | --- | --- | --- | ------------------------------------------------------------------------------------------------------------ |
+| Artificial Intelligence |     |     |     |     | x   | Created a stochastic model for a complex problem, saving 0.2 FTE for six months.                             |
+| Blockchain              |     |     |     |     | x   | Contributed to top ten cryptocurrencies and applied knowledge on cryptographic tasks and developed a new one |
+| Cryptography            |     |     |     |     | x   | Developed and rolled out (used) crypto                                                                       |
+| Linux                   |     |     |     |     | x   | I am a native penguin                                                                                        |
+| AWS Lambda              |     |     |     |     | x   | Developed web-backend in it                                                                                  |
+| AWS EC2                 |     |     |     |     | x   | Set up multiple VPN servers on differebt OSes                                                                |
+| AWS DynamoDB            |     |     |     | x   |     | Developed highly efficient solutions using it                                                                |
+| Redis                   |     |     |     | x   |     | Created cryptocurrency with it                                                                               |
+| Docker                  |     |     |     | x   |     | Successfully set up multiple containerized linux servers                                                     |
+| Kubernetes              |     |     | x   |     |     | Finished course                                                                                              |
 
 
 ## Experience

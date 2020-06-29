@@ -18,27 +18,23 @@ Certified AWS Engineer offering ~1 year professional and ~3 years volunteering e
 
 ### Key Skills
 
-| Key | Description                                                      |
-| --- | ---------------------------------------------------------------- |
-| 0   | No Familiarity                                                   |
-| 1   | Conversational Expertise (Terminology Only)                      |
-| 2   | Operational Expertise (Has operated this component)              |
-| 3   | Technical Expertise (Skills to operate product, fix errors)      |
-| 4   | System Programming Expertise (Has installed, debugged)           |
-| 5   | Engineering Expertise (Has created, re-engineered, reconfigured) |
+**0**: No Familiarity
+**1**: Conversational Expertise (Terminology Only)
+**2**: Operational Expertise (Has operated this component)
+**3**:  Technical Expertise (Skills to operate product, fix errors)
+**4**:  System Programming Expertise (Has installed, debugged)
+**5**:  Engineering Expertise (Has created, re-engineered, reconfigured)
 
-| Name                    | 1   | 2   | 3   | 4   | 5   | Note                                                                                                         |
-| ----------------------- | --- | --- | --- | --- | --- | ------------------------------------------------------------------------------------------------------------ |
-| Artificial Intelligence |     |     |     |     | x   | Created a stochastic model for a complex problem, saving 0.2 FTE for six months.                             |
-| Blockchain              |     |     |     |     | x   | Contributed to top ten cryptocurrencies and applied knowledge on cryptographic tasks and developed a new one |
-| Cryptography            |     |     |     |     | x   | Developed and rolled out (used) crypto                                                                       |
-| Linux                   |     |     |     |     | x   | I am a native penguin                                                                                        |
-| AWS Lambda              |     |     |     |     | x   | Developed web-backend in it                                                                                  |
-| AWS EC2                 |     |     |     |     | x   | Set up multiple VPN servers on differebt OSes                                                                |
-| AWS DynamoDB            |     |     |     | x   |     | Developed highly efficient solutions using it                                                                |
-| Redis                   |     |     |     | x   |     | Created cryptocurrency with it                                                                               |
-| Docker                  |     |     |     | x   |     | Successfully set up multiple containerized linux servers                                                     |
-| Kubernetes              |     |     | x   |     |     | Finished course                                                                                              |
+* **Artificial Intelligence**, Created a stochastic model for a complex problem, saving 0.2 FTE for six months: **5**
+* **Blockchain**, Contributed to top ten cryptocurrencies and applied knowledge on cryptographic tasks and developed a new one: **5**
+* **Cryptography**, Developed and rolled out (used) crypto: **5**
+* **Linux**, I am a native penguin: **5**
+* **AWS Lambda**, Developed web-backend in it: **5**
+* **AWS EC2**, Set up multiple VPN servers on different OSe: **5**
+* **AWS DynamoDB**, Developed highly efficient solutions using it: **4**
+* **Redis**, Created cryptocurrency with it: **4**
+* **Docker**, Successfully set up multiple containerized linux servers: **4**
+* **Kubernetes**, Finished course: **3**
 
 
 ## Experience

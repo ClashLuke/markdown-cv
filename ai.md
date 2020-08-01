@@ -19,13 +19,37 @@ Certified AWS Engineer offering ~1 year professional and ~3 years volunteering e
 ### Key Skills
 
 ### Keys
-
-* **0**: No Familiarity
-* **1**: Conversational Expertise (Terminology Only)
-* **2**: Operational Expertise (Has operated this component)
-* **3**: Technical Expertise (Skills to operate product, fix errors)
-* **4**: System Programming Expertise (Has installed, debugged)
-* **5**: Engineering Expertise (Has created, re-engineered, reconfigured)
+<br>
+<table class="center">
+    <tr>
+        <th>Proficiency</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td>0</td>
+        <td>No Familiarity</td>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Conversational Expertise (Terminology Only)</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Operational Expertise (Has operated this component)</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Technical Expertise (Skills to operate product, fix errors)</td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>System Programming Expertise (Has installed, debugged)</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>Engineering Expertise (Has created, re-engineered, reconfigured)</td>
+    </tr>
+</table>
 
 ### Skills
 <br>

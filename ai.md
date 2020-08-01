@@ -28,20 +28,86 @@ Certified AWS Engineer offering ~1 year professional and ~3 years volunteering e
 * **5**: Engineering Expertise (Has created, re-engineered, reconfigured)
 
 ### Skills
-
-* **Artificial Intellgence**, Created a stochastic model for a complex problem, saving 0.2 FTE for six months: **5**, 2 years of experience
-* **Blockchain**, Contributed to top ten cryptocurrencies and applied knowledge on cryptographic tasks and developed a new one: **5**, 2 years of experience
-* **Cryptography**, Developed and rolled out (used) crypto: **5**, 1 year of experience
-* **Linux**, I am a native penguin: **5**, 5 years of experience
-* **Python**, Extended python and its libraries: **5**, 3 years of experience
-* **AWS Lambda**, Developed web-backend in it: **5**, 1 year of experience
-* **AWS EC2**, Set up multiple VPN servers on different OSe: **5**, 1 year of experience
-* **AWS DynamoDB**, Developed highly efficient solutions using it: **4**, 1 year of experience
-* **Redis**, Created cryptocurrency with it: **4**, 1 year of experience
-* **C(++)**, Wrote and micro-optimized custom libraries: **4**, 2 years of experience
-* **Docker**, Successfully set up multiple containerized linux servers: **4**, 1 year of experience
-* **Kubernetes**, Finished course: **3**, 1 year of experience
-
+<table class="center">
+  <tr>
+    <th>Skill</th>
+    <th>Proficiency</th>
+    <th>Qualifications</th>
+    <th>Experience</th>
+  </tr>
+  <tr>
+    <td>Statistics</td>
+    <td>5</td>
+    <td>Created a stochastic model for a complex problem, saving 0.2 FTE for six months</td>
+    <td>2 years</td>
+  </tr>
+  <tr>
+    <td>Blockchain</td>
+    <td>5</td>
+    <td>Contributed to top ten cryptocurrencies and applied knowledge on cryptographic tasks and developed a new one</td>
+    <td>2 years</td>
+  </tr>
+  <tr>
+    <td>Cryptography</td>
+    <td>5</td>
+    <td>Developed and rolled out (used) crypto</td>
+    <td>2 years</td>
+  </tr>
+  <tr>
+    <td>Linux</td>
+    <td>5</td>
+    <td>I am a native penguin</td>
+    <td>7 years</td>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>5</td>
+    <td>Extended python and its libraries</td>
+    <td>4 years</td>
+  </tr>
+  <tr>
+    <td>AWS Lambda</td>
+    <td>5</td>
+    <td>Developed web-backend in it</td>
+    <td>1 year</td>
+  </tr>
+  <tr>
+    <td>AWS EC2</td>
+    <td>5</td>
+    <td>Set up multiple VPN servers on different OSes</td>
+    <td>1 year</td>
+  </tr>
+  <tr>
+    <td>AWS DynamoDB</td>
+    <td>4</td>
+    <td>Developed highly efficient solutions using it</td>
+    <td>1 year</td>
+  </tr>
+  <tr>
+    <td>Redis</td>
+    <td>5</td>
+    <td>Created cryptocurrency with it</td>
+    <td>1 year</td>
+  </tr>
+  <tr>
+    <td>C(++)</td>
+    <td>4</td>
+    <td>Wrote and micro-optimized custom libraries</td>
+    <td>2 year</td>
+  </tr>
+  <tr>
+    <td>Docker</td>
+    <td>4</td>
+    <td>Successfully set up multiple containerized linux servers</td>
+    <td>1 year</td>
+  </tr>
+  <tr>
+    <td>Kubernetes</td>
+    <td>3</td>
+    <td>Finished course</td>
+    <td>1 year</td>
+  </tr>
+</table>
 
 ## Experience
 
